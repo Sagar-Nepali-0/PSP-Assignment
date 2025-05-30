@@ -1,0 +1,5 @@
+Python is a popular programming language.
+Many developers use Python for web development, data analysis, and automation.
+JavaScript is another widely used language for web development.
+Learning Python and JavaScript can open many career opportunities.
+Practice coding every day to improve your programming skills.
